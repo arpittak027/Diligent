@@ -83,4 +83,4 @@ Example output shows top customers with their purchase metrics and preferred pro
 
 ## GitHub Repository
 
-This code is hosted on GitHub: https://git@github.com:arpittak027/Dilliigent.git)
+This code is hosted on GitHub: https://git@github.com:arpittak027/Diligent.git)
